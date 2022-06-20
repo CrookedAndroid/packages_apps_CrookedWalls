@@ -23,6 +23,26 @@
 
 <resources>
 
+    <category id="Crooked Walls" title="@string/category_crooked_walls" featured="Crooked Droid">
+        <static-wallpaper
+            id="Crooked Droid"
+            src="@drawable/crooked_droid"
+            title="@string/wallpaper_crooked_droid"
+            subtitle1="@string/author_nepo" />
+
+        <static-wallpaper
+            id="Drinking Droids"
+            src="@drawable/drinking_droids"
+            title="@string/wallpaper_drinking_droids"
+            subtitle1="@string/author_nepo" />
+
+        <static-wallpaper
+            id="Beer Droid"
+            src="@drawable/beer_droid"
+            title="@string/wallpaper_beer_droid"
+            subtitle1="@string/author_nepo" />
+    </category>
+
     <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Metal_Purple">
         <static-wallpaper
             id="Metal_Purple"

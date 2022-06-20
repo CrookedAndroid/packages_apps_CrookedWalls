@@ -23,6 +23,13 @@
 
 <resources>
 
+    <!-- Crooked Walls -->
+    <string name="category_crooked_walls">Crooked Walls</string>
+    <string name="author_nepo">Nepo Rood</string>
+    <string name="wallpaper_crooked_droid">Crooked Droid</string>
+    <string name="wallpaper_drinking_droids">Drinking Droids</string>
+    <string name="wallpaper_beer_droid">Beer Droid</string>
+
     <!-- Vaisakh's Collection -->
     <string name="category_vaisakh_walls">Made by Vaisakh</string>
     <string name="author_vaisakh">Vaisakh Murali</string>
