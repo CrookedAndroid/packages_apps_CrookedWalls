@@ -1,4 +1,5 @@
 // Copyright © 2020 StatiXOS
+// Copyright © 2022 The Crooked Android Project
 //
 // Licensed under the GNU GPLv2 license
 //
@@ -7,7 +8,7 @@
 //
 
 android_app {
-    name: "StatiXOSWalls",
+    name: "CrookedWalls",
     resource_dirs: ["res"],
     sdk_version: "current",
     system_ext_specific: true,
