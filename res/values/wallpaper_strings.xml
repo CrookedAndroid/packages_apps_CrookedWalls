@@ -1,12 +1,5 @@
 <!--
     Copyright (C) 2021 StatiXOS
-    Copyright (C) 2021 Sourajit Karmakar
-    Copyright (C) 2020-2022 Vaisakh Murali
-    Copyright (C) 2021 Ashim D. Silva
-    Copyright (C) 2021 Cristina Gottardi
-    Copyright (C) 2021 Alessio Soggetti
-    Copyright (C) 2021 Claudio Testa
-    Copyright (C) 2021 Fakurian Design
     Copyright (C) 2022 The Crooked Android Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -27,43 +20,12 @@
     <!-- Crooked Walls -->
     <string name="category_crooked_walls">Crooked Walls</string>
     <string name="author_nepo">Nepo Rood</string>
+    <string name="wallpaper_default_wall">Default Wall</string>
+    <string name="wallpaper_default_wall-b">Blue Default Wall</string>
+    <string name="wallpaper_default_wall-g">Green Default Wall</string>
+    <string name="wallpaper_default_wall-r">Red Default Wall</string>
     <string name="wallpaper_crooked_droid">Crooked Droid</string>
     <string name="wallpaper_drinking_droids">Drinking Droids</string>
     <string name="wallpaper_beer_droid">Beer Droid</string>
-
-    <!-- Vaisakh's Collection -->
-    <string name="category_vaisakh_walls">Made by Vaisakh</string>
-    <string name="author_vaisakh">Vaisakh Murali</string>
-    <string name="wallpaper_metal_purple">Metal Purple</string>
-    <string name="wallpaper_organic_purple">Purple Gradient</string>
-    <string name="wallpaper_coloured_plate">Colored Plates</string>
-    <string name="wallpaper_plastic_canyon">Plastic Canyon</string>
-    <string name="wallpaper_lava_mess">Lava Mess</string>
-    <string name="wallpaper_cracked_balls">Cracked Balls</string>
-
-    <!-- Unsplash Collection-->
-    <string name="category_unsplash">Unsplash</string>
-    <string name="wallpaper_dunes">Dunes</string>
-    <string name="wallpaper_cold_sunset">Cold Sunset</string>
-    <string name="wallpaper_snowy_sides">Snowy Sides</string>
-    <string name="wallpaper_green_hills">Green Hills</string>
-    <string name="wallpaper_winter_evening">Winter Evening</string>
-    <string name="wallpaper_marvellous_peaks">Marvellous Peaks</string>
-    <string name="author_mads">Mads Schmidt</string>
-    <string name="author_ashim">Ashim D. Silva</string>
-    <string name="author_cristina">Cristina Gottardi</string>
-    <string name="author_alessio">Alessio Soggetti</string>
-    <string name="author_claudio">Claudio Testa</string>
-
-    <!-- Gradient Collection-->
-    <string name="category_gradient_collection">Gradient Collection</string>
-    <string name="author_sourajit">by Sourajit Karmakar</string>
-    <string name="author_fakurian">by Fakurian Studios</string>
-    <string name="wallpaper_dusk">Dusk</string>
-    <string name="wallpaper_waves">Waves</string>
-    <string name="wallpaper_blurple">Blurple</string>
-    <string name="wallpaper_pastel_invasion">Pastel Invasion</string>
-    <string name="wallpaper_descending_blue">Descending Blue</string>
-    <string name="wallpaper_sunrise_mauve">Sunrise Mauve</string>
 
 </resources>
